@@ -50,4 +50,4 @@ By implementing these strategies, the business can achieve:
 ---
 
 ## Dashboard
-![Dashboard]()
+![Dashboard](https://github.com/hema-malini08/-FUTURE_DS_01/blob/main/Business%20Sales%20Performance%20dashboard.png)
