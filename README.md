@@ -1,7 +1,7 @@
 Business Sales Performance Analytics
 
 ## Project Overview
-This project focuses on analyzing Superstore sales data to understand business performance, identify trends, and generate actionable insights. The goal is to help improve revenue, profitability, and regional performance using data-driven decisions.
+This project focuses on analyzing Superstore sales data to identify revenue trends, top-selling products, high-value categories, regional performance.
 
 ---
 
